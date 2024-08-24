@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a web developer having expertise in frontend<br>tools. I can develop interactive and responsive web<br>applications. I pride myself on my attention to detail,<br>clear communication, and quick turnaround times.<br>I'm an expert in React Js. I also have a good<br>understanding of backend languages too.<br>Currently I'm working on my personal portfolio website.
+Hello, I am a Software Engineer having expertise in frontend<br>tools. I can develop interactive and responsive web<br>applications. I pride myself on my attention to detail,<br>clear communication, and quick turnaround times.<br>I'm an expert in React Js. I also have a good<br>understanding of backend languages too.<br>Currently I'm working on my personal portfolio website.
 
 
 ## 🌐 Socials:
